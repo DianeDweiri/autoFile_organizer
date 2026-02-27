@@ -23,7 +23,7 @@ It runs daily on **Windows, Linux, and macOS** and requires **no code editing**,
 1️⃣ **Clone the repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/auto-organizer.git
+git clone https://github.com/DIANEDWEIRI /auto-organizer.git
 
 2️⃣ Install required package:
 
@@ -55,4 +55,5 @@ Windows → sets up Task Scheduler automatically
 Linux/macOS → installs a cron job automatically
 
 3️⃣ Manual Run (Optional)
+
 python organizer.py
