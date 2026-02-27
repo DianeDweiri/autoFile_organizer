@@ -1,0 +1,452 @@
+2026-01-15 05:55:56,068 - INFO - Automation started
+2026-01-15 05:55:56,069 - INFO - Created folder: PDFs
+2026-01-15 05:55:56,069 - INFO - Created folder: Images
+2026-01-15 05:55:56,070 - INFO - Created folder: Spreadsheets
+2026-01-15 05:55:56,070 - INFO - Created folder: Text
+2026-01-15 05:55:56,071 - INFO - Created folder: PowerPoint
+2026-01-15 05:55:56,071 - INFO - Created folder: Other
+2026-01-15 05:55:56,072 - INFO - Automation finished
+2026-01-15 05:58:11,637 - INFO - Automation started
+2026-01-15 05:58:11,637 - INFO - Automation finished
+2026-01-15 06:00:55,283 - INFO - Automation started
+2026-01-15 06:00:55,286 - INFO - Automation finished
+2026-01-15 06:07:04,940 - INFO - Automation started
+2026-01-15 06:07:04,941 - INFO - Automation finished
+2026-01-15 06:07:36,595 - INFO - Automation started
+2026-01-15 06:07:36,596 - INFO - Automation finished
+2026-01-15 06:10:41,779 - INFO - Automation started
+2026-01-15 06:10:41,780 - INFO - Automation finished
+2026-01-15 06:12:55,590 - INFO - Automation started
+2026-01-15 06:12:55,590 - INFO - Created folder: PDFs
+2026-01-15 06:12:55,590 - INFO - Created folder: Images
+2026-01-15 06:12:55,591 - INFO - Created folder: Spreadsheets
+2026-01-15 06:12:55,591 - INFO - Created folder: Text
+2026-01-15 06:12:55,591 - INFO - Created folder: PowerPoint
+2026-01-15 06:12:55,591 - INFO - Created folder: Other
+2026-01-15 06:12:55,593 - INFO - Automation finished
+2026-01-15 06:15:43,462 - INFO - Automation started
+2026-01-15 06:15:43,464 - INFO - Automation finished
+2026-02-11 06:27:31,233 - INFO - Program started
+2026-02-11 06:27:31,235 - INFO - Moved: AI.jpg
+2026-02-11 06:27:31,236 - INFO - Moved: Butterfly.jpg
+2026-02-11 06:27:31,237 - INFO - Moved: Duck.jpg
+2026-02-11 06:27:31,237 - INFO - Moved: Horse.jpg
+2026-02-11 06:27:31,238 - INFO - Moved: lower.jpg
+2026-02-11 06:27:31,239 - INFO - Moved: panda.jpg
+2026-02-11 06:27:31,239 - INFO - Moved: puppy.jpg
+2026-02-11 06:27:31,240 - INFO - Moved: rocks.jpg
+2026-02-11 06:27:31,240 - INFO - Moved: tiger.jpg
+2026-02-11 06:27:31,240 - INFO - Program finished
+2026-02-11 07:21:23,596 - INFO - Program started
+2026-02-11 07:21:23,598 - INFO - 4096
+2026-02-11 07:21:23,599 - INFO - Moved: AI.jpg - Size: 4096
+2026-02-11 07:21:23,599 - WARNING - Skipped: AI.jpg
+2026-02-11 07:21:23,600 - INFO - 4096
+2026-02-11 07:21:23,601 - INFO - Moved: Butterfly.jpg - Size: 4096
+2026-02-11 07:21:23,601 - WARNING - Skipped: Butterfly.jpg
+2026-02-11 07:21:23,602 - INFO - 4096
+2026-02-11 07:21:23,603 - INFO - Moved: Duck.jpg - Size: 4096
+2026-02-11 07:21:23,603 - WARNING - Skipped: Duck.jpg
+2026-02-11 07:21:23,603 - INFO - 4096
+2026-02-11 07:21:23,605 - INFO - Moved: Horse.jpg - Size: 4096
+2026-02-11 07:21:23,605 - WARNING - Skipped: Horse.jpg
+2026-02-11 07:21:23,605 - INFO - 4096
+2026-02-11 07:21:23,607 - INFO - Moved: lower.jpg - Size: 4096
+2026-02-11 07:21:23,607 - WARNING - Skipped: lower.jpg
+2026-02-11 07:21:23,607 - INFO - 4096
+2026-02-11 07:21:23,608 - INFO - Moved: panda.jpg - Size: 4096
+2026-02-11 07:21:23,609 - WARNING - Skipped: panda.jpg
+2026-02-11 07:21:23,609 - INFO - 4096
+2026-02-11 07:21:23,611 - INFO - Moved: puppy.jpg - Size: 4096
+2026-02-11 07:21:23,611 - WARNING - Skipped: puppy.jpg
+2026-02-11 07:21:23,611 - INFO - 4096
+2026-02-11 07:21:23,613 - INFO - Moved: rocks.jpg - Size: 4096
+2026-02-11 07:21:23,613 - WARNING - Skipped: rocks.jpg
+2026-02-11 07:21:23,613 - INFO - 4096
+2026-02-11 07:21:23,615 - INFO - Moved: tiger.jpg - Size: 4096
+2026-02-11 07:21:23,615 - WARNING - Skipped: tiger.jpg
+2026-02-11 07:21:23,615 - INFO - Program finished
+2026-02-20 07:09:34,444 - INFO - Program started:
+2026-02-20 07:09:34,823 - INFO - Final_Sales_Report.xlsx created successfully!
+2026-02-20 07:15:19,763 - INFO - Checking and cleaning data:
+2026-02-20 07:16:02,243 - INFO - Checking and cleaning data:
+2026-02-20 07:17:19,215 - INFO - Checking and cleaning data:
+2026-02-20 07:27:33,904 - INFO - Checking and cleaning data:
+2026-02-20 07:30:16,534 - INFO - Checking and cleaning data:
+2026-02-20 07:30:16,613 - INFO - Professional Sales_Report.xlsx created successfully
+2026-02-23 05:46:26,936 - INFO - Program started:
+2026-02-23 05:47:36,886 - INFO - Program started:
+2026-02-23 05:47:41,891 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:47:47,036 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:47:47,139 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:47:52,170 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:47:57,237 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:47:57,351 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:02,384 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:07,423 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:48:07,471 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:12,501 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:17,551 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:48:17,595 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:22,625 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:27,661 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:48:27,695 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:32,724 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:37,764 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:48:37,799 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:42,843 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:47,880 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:48:47,914 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:52,948 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:48:57,989 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:48:58,023 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:03,059 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:08,105 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:49:08,138 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:13,175 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:18,212 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:49:18,256 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:23,294 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:28,348 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:49:28,393 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:33,428 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:38,487 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:49:38,535 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:43,572 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:48,616 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:49:48,666 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:53,702 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:49:58,756 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:49:58,808 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:50:03,851 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:50:08,901 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:50:08,952 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:50:13,985 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:01,181 - INFO - Program started:
+2026-02-23 05:53:06,186 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:11,236 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:53:11,279 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:16,307 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:21,344 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:53:21,383 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:26,412 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:31,454 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:53:31,500 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:36,527 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:41,581 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:53:41,632 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:46,668 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:51,710 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:53:51,745 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:53:56,774 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:01,823 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:54:01,860 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:06,901 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:11,960 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:54:11,991 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:17,019 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:22,052 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:54:22,086 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:27,113 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:32,144 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:54:32,174 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:37,211 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:42,267 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:54:42,299 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:47,327 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:52,363 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:54:52,405 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:54:57,440 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:02,476 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:55:02,502 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:07,533 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:12,567 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:55:12,611 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:14,869 - INFO - Program started:
+2026-02-23 05:55:19,873 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:24,918 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:55:24,962 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:29,991 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:35,028 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:55:35,061 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:40,091 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:45,130 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:55:45,170 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:50,200 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:55:55,232 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:55:55,299 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:00,332 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:05,371 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:56:05,409 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:10,444 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:15,479 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:56:15,520 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:20,552 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:25,629 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:56:25,666 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:30,700 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:35,744 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:56:35,775 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:40,806 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:45,840 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:56:45,881 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:50,919 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:56:55,953 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:56:55,987 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:01,024 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:06,068 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:57:06,105 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:11,136 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:16,180 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:57:16,240 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:21,293 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:26,336 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:57:26,364 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:31,397 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:36,446 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:57:36,480 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:57:41,516 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:58:29,930 - INFO - Program started:
+2026-02-23 05:58:34,934 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:58:39,988 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:58:40,028 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:58:45,062 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:58:50,097 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:58:50,131 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:58:55,167 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:00,211 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:59:00,244 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:05,278 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:10,320 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:59:10,351 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:15,379 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:20,414 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:59:20,450 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:25,483 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:30,530 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:59:30,572 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:35,607 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 05:59:40,647 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 05:59:40,681 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:00:24,722 - INFO - Program started:
+2026-02-23 06:00:29,726 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:00:34,765 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:00:34,804 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:02:24,435 - INFO - Program started:
+2026-02-23 06:02:29,438 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:02:34,489 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:02:34,547 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:02:39,583 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:02:44,618 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:02:44,656 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:02:49,690 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:02:54,727 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:02:54,760 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:02:59,799 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:03,936 - INFO - Program started:
+2026-02-23 06:03:08,939 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:13,987 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:03:14,052 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:19,082 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:24,121 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:03:24,170 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:29,200 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:34,242 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:03:34,291 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:39,319 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:44,357 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:03:44,427 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:49,458 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:54,491 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:03:54,538 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:03:59,569 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:04,611 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:04:04,655 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:09,685 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:14,735 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:04:14,786 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:19,816 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:24,858 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:04:24,910 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:29,947 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:34,984 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:04:35,075 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:40,118 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:45,167 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:04:45,217 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:50,249 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:04:55,295 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:04:55,345 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:00,377 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:05,428 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:05:05,488 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:10,518 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:15,552 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:05:15,606 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:20,636 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:25,679 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:05:25,735 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:30,767 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:35,809 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:05:35,870 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:40,904 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:45,946 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:05:46,002 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:51,033 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:05:56,077 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:05:56,119 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:01,167 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:06,210 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:06:06,243 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:11,274 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:16,313 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:06:16,351 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:21,384 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:26,419 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:06:26,454 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:31,491 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:36,544 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:06:36,576 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:41,609 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:46,646 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:06:46,680 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:51,713 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:06:56,751 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:06:56,782 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:01,815 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:06,862 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:07:06,897 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:11,928 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:16,961 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:07:16,987 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:22,016 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:27,069 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:07:27,099 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:32,128 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:37,167 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:07:37,198 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:42,230 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:47,271 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:07:47,300 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:48,158 - INFO - Program started:
+2026-02-23 06:07:53,162 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:07:58,212 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:07:58,262 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:03,293 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:08,360 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:08:08,400 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:13,432 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:18,479 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:08:18,514 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:23,546 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:28,587 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:08:28,618 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:33,652 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:38,690 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:08:38,731 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:43,761 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:48,797 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:08:48,839 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:53,871 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:08:58,451 - INFO - Program started:
+2026-02-23 06:09:03,455 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:08,513 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:09:08,567 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:13,596 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:18,642 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:09:18,675 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:23,706 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:28,747 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:09:28,791 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:33,821 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:38,869 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:09:38,914 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:43,944 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:48,991 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:09:49,019 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:54,052 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:09:59,091 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:09:59,125 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:04,158 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:09,198 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:10:09,228 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:14,260 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:19,302 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:10:19,346 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:24,377 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:29,427 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:10:29,471 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:34,506 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:39,555 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:10:39,600 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:44,630 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:49,668 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:10:49,697 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:54,732 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:10:59,774 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:10:59,820 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:11:04,853 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:11:09,898 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:11:09,935 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:11:14,968 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:11:20,014 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:11:20,052 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:11:25,084 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:11:30,127 - DEBUG - Running job Job(interval=10, unit=seconds, do=run_file2, args=(), kwargs={})
+2026-02-23 06:11:30,171 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-23 06:11:35,204 - DEBUG - Running job Job(interval=5, unit=seconds, do=run_file, args=(), kwargs={})
+2026-02-25 06:03:00,313 - INFO - Total Images moved: 0
+2026-02-25 06:03:00,314 - INFO - Total TextFiles moved: 0
+2026-02-25 06:03:00,314 - INFO - Total PowerPoint moved: 0
+2026-02-25 06:03:00,314 - INFO - Total Excel moved: 0
+2026-02-25 06:03:00,314 - INFO - Program finished
+2026-02-25 06:04:50,290 - INFO - Total Images moved: 0
+2026-02-25 06:04:50,291 - INFO - Total TextFiles moved: 0
+2026-02-25 06:04:50,291 - INFO - Total PowerPoint moved: 0
+2026-02-25 06:04:50,291 - INFO - Total Excel moved: 0
+2026-02-25 06:04:50,291 - INFO - Program finished
+2026-02-25 06:06:54,237 - INFO - Total Images moved: 0
+2026-02-25 06:06:54,238 - INFO - Total TextFiles moved: 0
+2026-02-25 06:06:54,238 - INFO - Total PowerPoint moved: 0
+2026-02-25 06:06:54,238 - INFO - Total Excel moved: 0
+2026-02-25 06:06:54,238 - INFO - Program finished
+2026-02-25 06:08:00,282 - DEBUG - Running job Job(interval=1, unit=days, do=Organizer, args=(), kwargs={})
+2026-02-25 06:08:00,282 - INFO - Program Started:
+2026-02-25 06:08:00,292 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\AI.jpg'
+2026-02-25 06:08:00,294 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Butterfly.jpg'
+2026-02-25 06:08:00,295 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Duck.jpg'
+2026-02-25 06:08:00,297 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Horse.jpg'
+2026-02-25 06:08:00,299 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\lower.jpg'
+2026-02-25 06:08:00,301 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\panda.jpg'
+2026-02-25 06:08:00,302 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\puppy.jpg'
+2026-02-25 06:08:00,303 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\rocks.jpg'
+2026-02-25 06:08:00,305 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\tiger.jpg'
+2026-02-25 06:08:00,307 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Introduction to Data Science - part 3.pptx'
+2026-02-25 06:08:00,309 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Final_Sales_Report.xlsx'
+2026-02-25 06:08:00,309 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Product-Sales-Region.xlsx'
+2026-02-25 06:08:00,310 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Sales_Report.xlsx'
+2026-02-25 06:08:22,348 - INFO - Total Images moved: 0
+2026-02-25 06:08:22,348 - INFO - Total TextFiles moved: 0
+2026-02-25 06:08:22,349 - INFO - Total PowerPoint moved: 0
+2026-02-25 06:08:22,349 - INFO - Total Excel moved: 0
+2026-02-25 06:08:22,349 - INFO - Program finished
+2026-02-26 06:32:56,313 - INFO - Program Started:
+2026-02-26 06:32:56,316 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\AI.jpg'
+2026-02-26 06:32:56,316 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Butterfly.jpg'
+2026-02-26 06:32:56,317 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Duck.jpg'
+2026-02-26 06:32:56,318 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Horse.jpg'
+2026-02-26 06:32:56,319 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\lower.jpg'
+2026-02-26 06:32:56,321 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\panda.jpg'
+2026-02-26 06:32:56,322 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\puppy.jpg'
+2026-02-26 06:32:56,324 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\rocks.jpg'
+2026-02-26 06:32:56,325 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\tiger.jpg'
+2026-02-26 06:32:56,327 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\task_test.txt'
+2026-02-26 06:32:56,328 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Introduction to Data Science - part 3.pptx'
+2026-02-26 06:32:56,328 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Final_Sales_Report.xlsx'
+2026-02-26 06:32:56,329 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Product-Sales-Region.xlsx'
+2026-02-26 06:32:56,330 - ERROR - [WinError 2] The system cannot find the file specified: 'C:\\Users\\DELL\\OneDrive\\Desktop\\Sales_Report.xlsx'
+2026-02-26 06:32:56,330 - INFO - Total Images moved: 9
+2026-02-26 06:32:56,330 - INFO - Total TextFiles moved: 1
+2026-02-26 06:32:56,330 - INFO - Total PowerPoint moved: 1
+2026-02-26 06:32:56,330 - INFO - Total Excel moved: 3
+2026-02-26 06:32:56,330 - INFO - Program finished

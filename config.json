@@ -1,0 +1,11 @@
+{
+  "source_folder": "OneDrive/Desktop",
+  "destination_folder": "Desktop/Organized",
+  "schedule_time": "06:10",
+  "file_types": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif"],
+    "TextFiles": [".txt", ".pdf", ".docx"],
+    "PowerPoint": [".pptx"],
+    "Excel": [".xlsx", ".csv"]
+  }
+}
