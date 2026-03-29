@@ -76,6 +76,8 @@ class WatchHandler(FileSystemEventHandler):
         if not event.is_directory:
             time.sleep(1)
             handle_file(event.src_path)
+            
+schedule.every(config["schedule_time"]).days.do(organizer)
 
 if __name__ == "__main__":
     observer = Observer()
@@ -87,6 +89,7 @@ if __name__ == "__main__":
 
     try:
         while True:
+            schedule.run_pending()
             time.sleep(2)
     except KeyboardInterrupt:
         observer.stop()
